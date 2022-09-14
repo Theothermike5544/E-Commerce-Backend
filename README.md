@@ -37,6 +37,8 @@ npm run start
  
   * Github Repository URL: (https://github.com/Theothermike5544/Employee-Tracker)
 
+  * Video Walk-through application: (https://drive.google.com/file/d/1AzwQ5ruMGG5UxgAfJ3brxMiefWAjsih2/view) 
+
 
 ## Contributions
 
